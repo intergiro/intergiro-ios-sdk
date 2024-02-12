@@ -50,3 +50,7 @@ The Intergiro iOS SDK is compatible with apps targeting iOS 13 or above.
 ## Credits
  - [WKWebViewJavascriptBridge](https://github.com/Lision/WKWebViewJavascriptBridge)
  - [PanModal](https://github.com/slackhq/PanModal)
+
+## License
+
+Intergiro iOS SDK is released under the [MIT license](LICENSE.md).
