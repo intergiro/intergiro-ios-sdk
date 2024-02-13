@@ -43,6 +43,8 @@ Search for the IntergiroSDK using the repo's URL:
 https://github.com/intergiro/ios-sdk.git
 ```
 
+![Xcode Project Add Package](Images/xcode-spm.png)
+
 #### Alternative
 
 To integrate via a `Package.swift` manifest instead of Xcode, you can add
