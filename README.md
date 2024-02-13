@@ -35,6 +35,49 @@ They are written with async/await approach, but also have analogs with completio
 
 ## Installation
 
+### Swift Package Manager
+
+Add a package by selecting `File` → `Add Packages…` in Xcode’s menu bar.
+Search for the IntergiroSDK using the repo's URL:
+```console
+https://github.com/intergiro/ios-sdk.git
+```
+
+#### Alternative
+
+To integrate via a `Package.swift` manifest instead of Xcode, you can add
+IntergiroSDK to the dependencies array of your package:
+
+```swift
+dependencies: [
+  .package(
+    name: "IntergiroSDK",
+    url: "https://github.com/intergiro/ios-sdk.git"
+  ),
+
+  // Any other dependencies you have...
+],
+```
+
+Then, in any target that depends on a IntergiroSDK product, add it to the `dependencies`
+array of that target:
+
+```swift
+.target(
+  name: "MyTargetName",
+  dependencies: [
+    .product(name: "IntergiroSDK", package: "IntergiroSDK"),
+  ]
+),
+```
+
+### Cocoapods
+
+Add to `Podfile`
+```
+pod 'IntergiroSDK'
+```
+
 ### Manual
 
 1. Download the latest version of the SDK
