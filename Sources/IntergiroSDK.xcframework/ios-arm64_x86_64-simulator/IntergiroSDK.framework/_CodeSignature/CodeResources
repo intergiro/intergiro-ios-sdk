@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/IntergiroSDK-Swift.h</key>
 		<data>
-		5SDkS7ohRPWyYk0KYz6pwAkyqeY=
+		Qatm/9kjgVujCmX5wjP45IYOjKA=
 		</data>
 		<key>Headers/IntergiroSDK.h</key>
 		<data>
@@ -14,47 +14,47 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/0Fn5ZKYK2Nu4h6p560XtxTDmg0=
+		pFF1Tf/w7SpWVf5MK9k9XG2AObs=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		GwK4WkFRFRSVdP1cs8t/LnhU1wQ=
+		ZBW9NrqyuknkcstWtGTjhKez+0w=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		QAUxFlhRxBvSRKjVtyIIC+XrIRk=
+		XoYOHtCPI3SRrBCRlNE3FrZKz48=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		lUDD1cGur37bDOqJn1sk+wW4el8=
+		ft6LdyP0niLqOmvGnPyhF+gOU98=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		QAUxFlhRxBvSRKjVtyIIC+XrIRk=
+		XoYOHtCPI3SRrBCRlNE3FrZKz48=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		SAglTNM0fqGMkabpFMfXd/PLZE0=
+		FImO0Yo0EOFksD5IrlZvZOhx8V8=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		GwK4WkFRFRSVdP1cs8t/LnhU1wQ=
+		ZBW9NrqyuknkcstWtGTjhKez+0w=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ewgfOmCaVatl9xE7+9vnHNhEL2E=
+		HdLAHeYo0Enl03UQ8Pra34un4kM=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		dHXGnriIhLHRw9eJ/D3/U9ga5eM=
+		/BNLm9Vq9PMmjCPSv0eV4BoTvyY=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ewgfOmCaVatl9xE7+9vnHNhEL2E=
+		HdLAHeYo0Enl03UQ8Pra34un4kM=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Db9telECqXrDCp9I3+mm8HTtyOc=
+		mIF5chFhS1RnYMCihxFFbHrlEpQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		ww3e4VwALr98Bf6VCq5od/Zj98Y=
+		oh5bsFaBIEMhgu4KUhCvT+MbVDg=
 		</data>
 		<key>WebViewWrapper.nib</key>
 		<data>
@@ -75,7 +75,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rqoA54YWnL/FgQ7geIU88Yb9GZdcg0vDKm//vDBIoKc=
+			VQHGOVZBGIF9tDMmYD+gM/LIlG/hWAytq+AKgKKs+bw=
 			</data>
 		</dict>
 		<key>Headers/IntergiroSDK.h</key>
@@ -89,70 +89,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7XWAvUMvhkQE6ZzWyP4Wb1QCgk/hobcxCiik3Eeul0=
+			Pvp5wtPiFOMMWBUvXIOj0NIKbdTdP7yQ+Nb2ixyDCDQ=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLs6GKSxjT8QWYcSNrgfarTbMwR1ZkIGAryYV2F6v5A=
+			i3FBL5SDW/lu4cUAj7dXisOQcqiTIsV5N5IpJwTzSXA=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PUhXDzdZYRkYuISvcsR4GBrhpDjERqO4qs32IbLDHss=
+			JIoFpO9b3/scRfGXCVV1ohUB2vbfE+eAp0c9u7mmvZs=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLs6GKSxjT8QWYcSNrgfarTbMwR1ZkIGAryYV2F6v5A=
+			i3FBL5SDW/lu4cUAj7dXisOQcqiTIsV5N5IpJwTzSXA=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vOS7ivu9IVssLVXr/+D2QPQggokGMfTVNwitk1OSocY=
+			ELEpo2D5jEy5djTedx6kWNa/Fzau8eGGFNa10arVCDs=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7XWAvUMvhkQE6ZzWyP4Wb1QCgk/hobcxCiik3Eeul0=
+			Pvp5wtPiFOMMWBUvXIOj0NIKbdTdP7yQ+Nb2ixyDCDQ=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BxBvE9siy7IUCgvUVMv+phQFBO9MRolUO9CfKGy7YE0=
+			/xHvwLNiW05xpEfolpO/PBN59aPGODGqQf2Pom8/bIs=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			T0bYrx5AwNVeilqPRNJjLLNwMp4Wc1UE2SM60qQEIzI=
+			49udijOZNOO7yMu6W9mnXAbml4kHg70/UNXbaRswc64=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BxBvE9siy7IUCgvUVMv+phQFBO9MRolUO9CfKGy7YE0=
+			/xHvwLNiW05xpEfolpO/PBN59aPGODGqQf2Pom8/bIs=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q/qPAX7fdm+nAeIDHr1kgKj0WnYPCHYA/b7uydiry7c=
+			5Mi7NauHrrWnqpslMbsel1AN+GpRtUJR75k2y/0Y9fk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mfOpzEphIvM1PtdlbCd48CBW+YDYFzTfQSUu1Q8UTIA=
+			42+gOrYh+sKQLUUQPV9eErHu/PuPIEDUWI7eUq5br6c=
 			</data>
 		</dict>
 		<key>WebViewWrapper.nib</key>
