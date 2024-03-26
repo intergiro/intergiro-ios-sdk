@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.homepage           = "https://github.com/intergiro/ios-sdk"
   spec.license            = { :type => "MIT", :file => 'LICENSE.md' }
   spec.author             = "Intergiro Intl AB (publ)"
-  spec.source             = { :git => 'https://github.com/intergiro/intergir-ios-sdk.git', :tag => spec.version.to_s }
+  spec.source             = { :git => 'https://github.com/intergiro/intergiro-ios-sdk.git', :tag => spec.version.to_s }
   spec.swift_version      = "5.3"
   spec.ios.deployment_target  = "13.0"
   spec.vendored_frameworks     = "Sources/IntergiroSDK.xcframework"
