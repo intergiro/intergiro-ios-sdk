@@ -1,0 +1,11 @@
+framework module IntergiroSDK {
+  umbrella header "IntergiroSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module IntergiroSDK.Swift {
+  header "IntergiroSDK-Swift.h"
+  requires objc
+}
