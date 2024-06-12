@@ -41,7 +41,7 @@ They are written with async/await approach, but also have analogs with completio
 Add a package by selecting `File` → `Add Packages…` in Xcode’s menu bar.
 Search for the IntergiroSDK using the repo's URL:
 ```console
-https://github.com/intergiro/ios-sdk.git
+https://github.com/intergiro/intergiro-ios-sdk.git
 ```
 
 ![Xcode Project Add Package](Images/xcode-spm.png)
@@ -55,7 +55,7 @@ IntergiroSDK to the dependencies array of your package:
 dependencies: [
   .package(
     name: "IntergiroSDK",
-    url: "https://github.com/intergiro/ios-sdk.git"
+    url: "https://github.com/intergiro/intergiro-ios-sdk.git"
   ),
 
   // Any other dependencies you have...
@@ -78,7 +78,7 @@ array of that target:
 
 Add to `Podfile`
 ```
-pod 'IntergiroSDK'
+pod 'IntergiroSDK', git => 'https://github.com/intergiro/intergiro-ios-sdk.git'
 ```
 
 ### Manual
