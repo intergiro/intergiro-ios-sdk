@@ -24,6 +24,11 @@ import os
   @objc public static func launch(token: Swift.String, viewController: UIKit.UIViewController? = nil, completion: (([Swift.String : Any]?, (any Swift.Error)?) -> Swift.Void)?)
   @objc deinit
 }
+public protocol ExternalLinkGateway {
+  #if compiler(>=5.3) && $AsyncAwait
+  @_Concurrency.MainActor func openExternalLink(url: Swift.String) async throws
+  #endif
+}
 public let KeychainAccessErrorDomain: Swift.String
 public enum ItemClass {
   case genericPassword
