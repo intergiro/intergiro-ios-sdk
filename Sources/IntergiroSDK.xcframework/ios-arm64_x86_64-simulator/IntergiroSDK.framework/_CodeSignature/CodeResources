@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pFF1Tf/w7SpWVf5MK9k9XG2AObs=
+		gK7vDnLsKgcZpIEo9MoERQ7jYXA=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZBW9NrqyuknkcstWtGTjhKez+0w=
+		aYialxeQhDDr6OzyorqBhSPaPUk=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XoYOHtCPI3SRrBCRlNE3FrZKz48=
+		EIIpGLc8S8pye+VC/jME+/kQjDg=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		XoYOHtCPI3SRrBCRlNE3FrZKz48=
+		EIIpGLc8S8pye+VC/jME+/kQjDg=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FImO0Yo0EOFksD5IrlZvZOhx8V8=
+		ng29DoaVT3y49d60N/sRfY8LDBM=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZBW9NrqyuknkcstWtGTjhKez+0w=
+		aYialxeQhDDr6OzyorqBhSPaPUk=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HdLAHeYo0Enl03UQ8Pra34un4kM=
+		EQ7TXLSlyFwwoc1hGp+TFzZOW/Y=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HdLAHeYo0Enl03UQ8Pra34un4kM=
+		EQ7TXLSlyFwwoc1hGp+TFzZOW/Y=
 		</data>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mIF5chFhS1RnYMCihxFFbHrlEpQ=
+		/a4j9m5aUIGnuBbHfWxUCOcnwy0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		oh5bsFaBIEMhgu4KUhCvT+MbVDg=
+		Ouytk2FpYdWZ6zh37oAnm786E+k=
 		</data>
 		<key>WebViewWrapper.nib</key>
 		<data>
@@ -89,14 +89,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pvp5wtPiFOMMWBUvXIOj0NIKbdTdP7yQ+Nb2ixyDCDQ=
+			gIC9EhakMlIt6lnCth0lmeTBa3eMjrpNQ9UKpKe6Wm8=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i3FBL5SDW/lu4cUAj7dXisOQcqiTIsV5N5IpJwTzSXA=
+			5elgbK8TPZww5KAoPn1zH5GbGTIBaMSuDnEqZnMVU6U=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -110,28 +110,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i3FBL5SDW/lu4cUAj7dXisOQcqiTIsV5N5IpJwTzSXA=
+			5elgbK8TPZww5KAoPn1zH5GbGTIBaMSuDnEqZnMVU6U=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ELEpo2D5jEy5djTedx6kWNa/Fzau8eGGFNa10arVCDs=
+			t/Dc5Kj+/3P3vzbsnVchEXAtNbEg+s5w0X3mGbKSx/o=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Pvp5wtPiFOMMWBUvXIOj0NIKbdTdP7yQ+Nb2ixyDCDQ=
+			gIC9EhakMlIt6lnCth0lmeTBa3eMjrpNQ9UKpKe6Wm8=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/xHvwLNiW05xpEfolpO/PBN59aPGODGqQf2Pom8/bIs=
+			81VwRr6QaN12tqBZUDh670Eo7r2mOyH8DBS+R/BvcQs=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -145,14 +145,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/xHvwLNiW05xpEfolpO/PBN59aPGODGqQf2Pom8/bIs=
+			81VwRr6QaN12tqBZUDh670Eo7r2mOyH8DBS+R/BvcQs=
 			</data>
 		</dict>
 		<key>Modules/IntergiroSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5Mi7NauHrrWnqpslMbsel1AN+GpRtUJR75k2y/0Y9fk=
+			tsnav2xI5bM8zt6ZRIpc6VT3HQl2n+MePhdXwInBUF4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -166,7 +166,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			42+gOrYh+sKQLUUQPV9eErHu/PuPIEDUWI7eUq5br6c=
+			Vn6Xlppn0Rh6ynSJFyNDT2wdECohZzlW0hcWaOahI04=
 			</data>
 		</dict>
 		<key>WebViewWrapper.nib</key>
